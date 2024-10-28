@@ -1,0 +1,2 @@
+dreamCost = 1500
+dreamName = ролики

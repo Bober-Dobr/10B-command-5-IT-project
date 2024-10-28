@@ -1,0 +1,3 @@
+dreamCost = 1500
+dreamName = ������
+MainAcc = 0
