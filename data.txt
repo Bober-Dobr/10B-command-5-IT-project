@@ -1,6 +1,6 @@
 autoFill = 15
-afBool = False
 mainAcc = 0
 inPiggy = 0
 dreamCost = 0
-dreamName = пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
+dreamName = Мечта не задана
+autoFillBool = True
